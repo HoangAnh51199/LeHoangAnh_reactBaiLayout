@@ -8,6 +8,9 @@ export default class Items extends Component {
                     <div className="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i className="bi bi-collection" /></div>
                     <h2 className="fs-4 fw-bold">Fresh new layout</h2>
                     <p className="mb-0">With Bootstrap 5, we've created a fresh new layout for this template!</p>
+                    <a className="btn btn-primary btn-lg" href="#!">
+                    Call to action
+                    </a>
                 </div>
             </div>
 
